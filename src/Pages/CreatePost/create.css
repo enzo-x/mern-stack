@@ -1,0 +1,25 @@
+.createDiv{
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: white;
+   
+    
+    
+    box-shadow: 4px 4px 5px black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#createBtn{
+    margin-top: 10px;
+    border: none;
+    background-color: #ff6b6b;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+#createBtn:hover{
+    background-color: #ff4c4c;
+}
